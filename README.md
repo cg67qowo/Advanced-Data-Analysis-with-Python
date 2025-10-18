@@ -49,6 +49,6 @@ To deepen your understanding and broaden your perspective, consider exploring th
 - [*The Python Data Science Handbook*](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlaas
 
 ### Supplementary Resources
-- [*Linear Algebra with Python*](https://link.springer.com/book/10.1007/978-981-99-2951-1) by *[Tsukada et al.]* — to deepen the basis of linear algebra while preserving an applied approach.
-- If you need guidance regarding more basic topics like basic data cleaning and handling, or version control with Git, please refer to the **Basic Python guidelines** I prepared [here]().
+- [*Linear Algebra with Python*](https://link.springer.com/book/10.1007/978-981-99-2951-1) by Tsukada et al. — to deepen the basis of linear algebra while preserving an applied approach.
+- If you need guidance regarding more basic topics like basic data cleaning and handling, or version control with Git, please refer to the **Basic Python guidelines** I prepared [here](https://github.com/cg67qowo/Introduction-to-Data-Analysis-with-Python/blob/main/Python_Guidelines.pdf).
 
