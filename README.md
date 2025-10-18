@@ -16,7 +16,7 @@ Below is a week-by-week breakdown of what we’ll cover:
 
 | Week | Topic | Key Concepts | Materials |
 |------|--------|---------------|------------|
-| 1 | Exploratory Data Analysis | Summary statistics, data visualization | [Slides](Week_1/slides/AdvancedDA-EDA-W1.pdf), [Notebook](Week_1/eda-housing-price-dataset.ipynb) |
+| 1 | Exploratory Data Analysis | Summary statistics, data visualization | [Slides](Week_1/AdvancedDA-EDA-W1.pdf), [Notebook](Week_1/eda-housing-price-dataset.ipynb) |
 | 2 | Statistical Modeling: Regression | Mathematical theory, real-world applications | [Slides](Week_2/Week2-Linear_Regression.pdf), [Notebook](Week_2/linear_regression_.ipynb), [Notebook with supplementary exercises](Week_2/exercises_class_linreg.ipynb) |
 | 3 | Statistical Modeling: Classification | Mathematical theory, real-world applications | [Slides](Week_3/Classification_and_Decision_Trees.pdf), [Notebook on Linear Regression](/Week_3/logistic_regression.ipynb), [Notebook on Classification Trees](Week_3/classification_tree.ipynb) |
 | 4 | Introduction to Time Series Analysis |  
@@ -30,9 +30,9 @@ Below is a week-by-week breakdown of what we’ll cover:
 
 Your performance in this course will be evaluated based on the **final assignment (group project)**:
 
-- Project description due by November 3, 2025. Describe the dataset you want to use, define 2-3 research questions, and report the planned pipeline.
+- Project description due by **November 3, 2025**. Describe the dataset you want to use, define 2-3 research questions, and report the planned pipeline.
     - The project description is not part of the final grading, but **mandatory** if you want to submit the assignment.
-- Final project: due by December 20, 2025. Please hand in:
+- Final project: due by **December 20, 2025**. Please hand in:
     - GitHub repository with the code, **thoroughly commented**
     - A report in form of a research paper, between 5 and 8 pages.
 
