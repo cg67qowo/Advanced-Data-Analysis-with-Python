@@ -19,8 +19,8 @@ Below is a week-by-week breakdown of what we’ll cover:
 | 1 | Exploratory Data Analysis | Summary statistics, data visualization | [Slides](Week_1/AdvancedDA-EDA-W1.pdf), [Notebook](Week_1/eda-housing-price-dataset.ipynb) |
 | 2 | Statistical Modeling: Regression | Mathematical theory, real-world applications | [Slides](Week_2/W2_Linear_Regression.pdf), [Notebook](Week_2/linear_regression_.ipynb), [Notebook with supplementary exercises](Week_2/exercises_class_linreg.ipynb) |
 | 3 | Statistical Modeling: Classification | Mathematical theory, real-world applications | [Slides](Week_3/W3_Classification.pdf), [Notebook on Linear Regression](/Week_3/logistic_regression.ipynb), [Notebook on Classification Trees](Week_3/classification_tree.ipynb) |
-| 4 | Introduction to Time Series Analysis |  Basics of time series, MA, AR, ARMA | [Slides](), [Notebook]() |
-| 5 | Introduction to Causal Inference | 
+| 4 | Introduction to Time Series Analysis |  Basics of time series, MA, AR, ARMA | [Slides](/Week_4/Week4-TimeSeries.pdf), [Notebook: Intro to Time Series](/Week_4/intro-time_series.ipynb), [Notebook: Naive Predictions](/Week_4/naive-model_time-series.ipynb), [Notebook: Random Walk](/Week_4/random-walk_time-series.ipynb), [Notebook: Time Series Modeling](/Week_4/time-series_models.ipynb)|
+| 5 | Introduction to Causal Inference |
 | 6 | Beyond Linearity: Machine Learning workflow and evaluation | 
 
 
