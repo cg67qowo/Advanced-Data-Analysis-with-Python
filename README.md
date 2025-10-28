@@ -47,6 +47,7 @@ To deepen your understanding and broaden your perspective, consider exploring th
 - [*Time Series Forecasting in Python*](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202025%20-%20A/CSE%20%20IT%20AIDS%20ML/Manning.Time.Series.Forecasting.in.Python.161729988X.pdf) by Marco Pexeiro
 - [*Introduction to Time Series Forecasting in Python*](https://www.inf.szte.hu/~korosig/teach/books/Jason%20Brownlee%20-%20Introduction%20to%20Time%20Series%20Forecasting%20with%20Python%20-%20How%20to%20Prepare%20Data%20and%20Develop%20Models%20to%20Predict%20the%20Future-v1.9%20(2020).pdf) by Jason Brownlee
 - [*The Python Data Science Handbook*](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlaas
+- [Applied causal inference powered by ML and AI.](https://causalml-book.org) by Chernozhukov, Hansen, Kallus, Spindler, and Syrgkanis.
 
 ### Supplementary Resources
 - [*Linear Algebra with Python*](https://link.springer.com/book/10.1007/978-981-99-2951-1) by Tsukada et al. — to deepen the basis of linear algebra while preserving an applied approach.
