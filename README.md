@@ -20,7 +20,7 @@ Below is a week-by-week breakdown of what we’ll cover:
 | 2 | Statistical Modeling: Regression | Mathematical theory, real-world applications | [Slides](Week_2/W2_Linear_Regression.pdf), [Notebook](Week_2/linear_regression_.ipynb), [Notebook with supplementary exercises](Week_2/exercises_class_linreg.ipynb) |
 | 3 | Statistical Modeling: Classification | Mathematical theory, real-world applications | [Slides](Week_3/W3_Classification.pdf), [Notebook on Linear Regression](/Week_3/logistic_regression.ipynb), [Notebook on Classification Trees](Week_3/classification_tree.ipynb) |
 | 4 | Introduction to Time Series Analysis |  Basics of time series, MA, AR, ARMA | [Slides](/Week_4/Week4-TimeSeries.pdf), [Notebook: Intro to Time Series](/Week_4/intro-time_series.ipynb), [Notebook: Naive Predictions](/Week_4/naive-model_time-series.ipynb), [Notebook: Random Walk](/Week_4/random-walk_time-series.ipynb), [Notebook: Time Series Modeling](/Week_4/time-series_models.ipynb)|
-| 5 | Introduction to Causal Inference |
+| 5 | Introduction to Causal Inference | Correlation vs Causality, Causal Inference Frameworks, ATE, RCT, estimations in randomized and observational settings | [Slides](/Week_5/Advanced_Data_Analysis_with_Python___Week_5-2.pdf), [Notebook on RCT](/Week_5/05-01-RCT.ipynb), [Notebook on Adjusted Linear Regression](/Week_5/05-02-Linear_Regression.ipynb), [Notebook on Matching](/Week_5/05-03-Matching.ipynb) |
 | 6 | Beyond Linearity: Machine Learning workflow and evaluation | 
 
 
@@ -52,4 +52,5 @@ To deepen your understanding and broaden your perspective, consider exploring th
 ### Supplementary Resources
 - [*Linear Algebra with Python*](https://link.springer.com/book/10.1007/978-981-99-2951-1) by Tsukada et al. — to deepen the basis of linear algebra while preserving an applied approach.
 - If you need guidance regarding more basic topics like basic data cleaning and handling, or version control with Git, please refer to the **Basic Python guidelines** I prepared [here](https://github.com/cg67qowo/Introduction-to-Data-Analysis-with-Python/blob/main/Python_Guidelines.pdf).
+- In all the slides and notebook, I reference my sources or the sources I used to build my materials. Feel free to use them if you need further guidance, as they are all very good courses! 
 
