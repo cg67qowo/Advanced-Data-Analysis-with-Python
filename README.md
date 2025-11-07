@@ -10,7 +10,7 @@ This course is designed to give you a solid foundational understanding of a broa
 
 The goal is for you to develop a strong baseline in each method, understand its assumptions and uses, and gain hands-on experience applying it to real-world data. In the final project, you are encouraged to **choose one technique that interests you the most** and explore it in depth, building on the foundation established throughout the course.
 
-## 🗂️ Course Content
+## Course Content
 
 Below is a week-by-week breakdown of what we’ll cover:
 
@@ -26,7 +26,7 @@ Below is a week-by-week breakdown of what we’ll cover:
 
 ---
 
-## 🧮 Evaluation
+## Evaluation
 
 Your performance in this course will be evaluated based on the **final assignment (group project)**:
 
@@ -38,7 +38,7 @@ Your performance in this course will be evaluated based on the **final assignmen
 
 ---
 
-## 📚 Recommended Readings
+## Recommended Readings
 
 To deepen your understanding and broaden your perspective, consider exploring the following:
 
