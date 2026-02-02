@@ -1,5 +1,5 @@
 # Advanced Data Analysis with Python
-This is the repository of the course "Advanced Data Analysis with Python" given at SciencesPo in fall 2025.
+This is the repository of the course "Advanced Data Analysis with Python" given at SciencesPo.
 **Please note that this repository is still subject to changes.**
 
 ---
@@ -21,8 +21,7 @@ Below is a week-by-week breakdown of what we’ll cover:
 | 3 | Statistical Modeling: Classification | Mathematical theory, real-world applications | [Slides](Week_3/W3_Classification.pdf), [Notebook on Linear Regression](/Week_3/logistic_regression.ipynb), [Notebook on Classification Trees](Week_3/classification_tree.ipynb) |
 | 4 | Introduction to Time Series Analysis |  Basics of time series, MA, AR, ARMA | [Slides](/Week_4/Week4-TimeSeries.pdf), [Notebook: Intro to Time Series](/Week_4/intro-time_series.ipynb), [Notebook: Naive Predictions](/Week_4/naive-model_time-series.ipynb), [Notebook: Random Walk](/Week_4/random-walk_time-series.ipynb), [Notebook: Time Series Modeling](/Week_4/time-series_models.ipynb)|
 | 5 | Introduction to Causal Inference | Correlation vs Causality, Causal Inference Frameworks, ATE, RCT, estimations in randomized and observational settings | [Slides](/Week_5/Advanced_Data_Analysis_with_Python___Week_5-2.pdf), [Notebook on RCT](/Week_5/05-01-RCT.ipynb), [Notebook on Adjusted Linear Regression](/Week_5/05-02-Linear_Regression.ipynb), [Notebook on Matching](/Week_5/05-03-Matching.ipynb) |
-| 6 | Machine Learning workflows | From Statistics to Machine Learning, Basic Feature Engineering, Data handling for ML, Model Tuning | [Slides](/Week_6/Week6-ML_Workflows.pdf), [Notebook on Feature Engineering](/Week_6/feature_engineering.ipynb), [Notebook on data splitting](/Week_6/data_splitting.ipynb), [Notebook on K-Fold Cross-Validation](/Week_6/k_fold.ipynb), [Notebook on Ridge and Lasso Regularization](/Week_6/ridge_and_lasso.ipynb)
-
+| 6 | Machine Learning workflows | TBA | TBA
 
 ---
 
@@ -30,11 +29,11 @@ Below is a week-by-week breakdown of what we’ll cover:
 
 Your performance in this course will be evaluated based on the **final assignment (group project)**:
 
-- Project description due by **November 3, 2025**. Describe the dataset you want to use, define 2-3 research questions, and report the planned pipeline.
+- Project description due by **March 22, 2026**. Describe the dataset you want to use, define 2-3 research questions, and report the planned pipeline.
     - The project description is not part of the final grading, but **mandatory** if you want to submit the assignment.
-- Final project: due by **December 20, 2025**. Please hand in:
+- Final project: due by **May 4, 2026**. Please hand in:
     - GitHub repository with the code, **thoroughly commented**
-    - A report in form of a research paper, between 5 and 8 pages.
+    - A report in form of a research paper, between 4 and 8 pages.
 
 ---
 
